@@ -1,5 +1,5 @@
 # PythonProgramming
 You can run this file by typing
-'''shell
+```shell
 python3 ./pythonTask.py
-'''
+```
