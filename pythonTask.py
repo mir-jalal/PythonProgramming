@@ -6,7 +6,7 @@ for i in range(2, 1000):
 
 sum = 0
 
-k = int(input(k))
+k = int(input())
 
 for i in range(2, 1000000):
     if prime[i]:
